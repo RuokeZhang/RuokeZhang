@@ -1,6 +1,5 @@
 # Hi there, I'm Rock! 👋
-
-![Banner](./assets/IMG_9405.jpg) 
+[✨Check my Personal Website✨](https://ruokezhang.github.io/)
 
 ## About Me
 
