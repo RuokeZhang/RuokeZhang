@@ -1,6 +1,6 @@
 # Hi there, I'm Rock! 👋
 [✨Check my Personal Website✨](https://ruokezhang.github.io/)
-
+![](https://komarev.com/ghpvc/?username=RuokeZhang&color=green)
 ## About Me
 
 - 🔭  I’m applying for Fall 2025 Master of Computer Science Programs!
