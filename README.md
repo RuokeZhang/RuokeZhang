@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=RuokeZhang&color=green)
 ## About Me
 
-- 🔭  I’m applying for Fall 2025 Master of Computer Science Programs!
+- 🔭 Incoming Master student at Washington University💜
+- 💻 Current SDE Intern at Tiktok
 - 🧑‍🎓 Graduated from Ohio State in 2024 with two degrees in CS and Math.
-- 🌱 Currently learning Java & Computer Systems.
 - ⚡ Fun Fact: Proud owner of three adorable orangutan plushies! 🦧
 - 📷 Passionate about photography 📷 and travelling! 🌄
 - 📫 Contact Me: [jaade1107@gmail.com](mailto:jaade1107@gmail.com) ｜ WeChat: Pando2021
