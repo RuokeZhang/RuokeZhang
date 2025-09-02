@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=RuokeZhang&color=green)
 ## About Me
 
-- 🔭 Incoming Master student at Washington University💜
-- 💻 Current SDE Intern at Tiktok
-- 🧑‍🎓 Graduated from Ohio State in 2024 with two degrees in CS and Math.
+- 🔭 Master student at Washington University💜
+- 💻 Ex-SDE Intern at TikTok, Ex-MLE Intern at Shanghai AI Lab
+- 🧑‍🎓 Graduated from Ohio State in 2024 with dual degrees in CS and Math.
 - ⚡ Fun Fact: Proud owner of three adorable orangutan plushies! 🦧
 - 📷 Passionate about photography 📷 and travelling! 🌄
 - 📫 Contact Me: [madisonzhang2025@gmail.com](mailto:madisonzhang2025@gmail.com) ｜ WeChat: Pando2021
