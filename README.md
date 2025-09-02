@@ -1,4 +1,4 @@
-# Hi there, I'm Rock! 👋
+# Hi there, I'm Madison(Ruoke) Zhang! 👋
 [✨Check my Personal Website✨](https://ruokezhang.github.io/)
 ![](https://komarev.com/ghpvc/?username=RuokeZhang&color=green)
 ## About Me
@@ -8,7 +8,7 @@
 - 🧑‍🎓 Graduated from Ohio State in 2024 with two degrees in CS and Math.
 - ⚡ Fun Fact: Proud owner of three adorable orangutan plushies! 🦧
 - 📷 Passionate about photography 📷 and travelling! 🌄
-- 📫 Contact Me: [jaade1107@gmail.com](mailto:jaade1107@gmail.com) ｜ WeChat: Pando2021
+- 📫 Contact Me: [madisonzhang2025@gmail.com](mailto:madisonzhang2025@gmail.com) ｜ WeChat: Pando2021
 ## Current Projects
 
 ### 1. Redis Clone (Simple Redis)
