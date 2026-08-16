@@ -4,7 +4,7 @@
 ## About Me
 
 - 🔭 Master student at University of Washington💜
-- 💻 Ex-SDE Intern at TikTok, Ex-MLE Intern at Shanghai AI Lab
+- 💻 MLE Intern at LinkedIn; Ex-SDE Intern at TikTok; Ex-MLE Intern at Shanghai AI Lab
 - 🧑‍🎓 Graduated from Ohio State in 2024 with dual degrees in CS and Math.
 - ⚡ Fun Fact: Proud owner of three adorable orangutan plushies! 🦧
 - 📷 Passionate about photography 📷 and travelling! 🌄
